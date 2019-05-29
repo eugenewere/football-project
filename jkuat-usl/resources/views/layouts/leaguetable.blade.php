@@ -1,0 +1,103 @@
+<!--leaguetable-->
+        <div class="container-fluid" id="leaguetable">
+            <div class="row">
+                <div class="col-xs-12 p-3 w-100">
+                    <h1 class="text-center"> League Table</h1> 
+                        <table class="table table-bordered table-hover table-striped table-responsive-xs " style="height:0; overflow:hidden;" >
+                            <tr>
+                                <td colspan="8"><h2>USL Round-Up Standings</h2></td>
+                            </tr>
+                            <tr>
+                                <th>position</th>
+                                <th>team</th>
+                                <th>played</th>
+                                <th>won</th>
+                                <th>drow</th>
+                                <th>lost</th>
+                                <th>goal diffrence</th>
+                                <th>points</th>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>Castilla</td>
+                                <td>5</td>
+                                <td>4</td>
+                                <td>1</td>
+                                <td>0</td>
+                                <td>12</td>
+                                <td>13</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>HCF</td>
+                                <td>5</td>
+                                <td>2</td>
+                                <td>2</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td>0</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Boka</td>
+                                <td>4</td>
+                                <td>2</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Straight</td>
+                                <td>5</td>
+                                <td>2</td>
+                                <td>0</td>
+                                <td>3</td>
+                                <td>-8</td>
+                                <td>6</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Classic FC</td>
+                                <td>3</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td>0</td>
+                                <td>1</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Mining</td>
+                                <td>4</td>
+                                <td>1</td>
+                                <td>0</td>
+                                <td>3</td>
+                                <td>-2</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Aberdeen</td>
+                                <td>4</td>
+                                <td>1</td>
+                                <td>0</td>
+                                <td>3</td>
+                                <td>-2</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>JKUMSA</td>
+                                <td>2</td>
+                                <td>0</td>
+                                <td>1</td>
+                                <td>1</td>
+                                <td>-2</td>
+                                <td>1</td>
+                            </tr>
+                        </table>
+                </div>        
+            </div>    
+        </div>
